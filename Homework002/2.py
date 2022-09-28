@@ -9,7 +9,6 @@ def factorial_(n):
         n -= 1
     return f
 
-
 def fill_list(n):
     u = []
     for i in range(1, n + 1):
